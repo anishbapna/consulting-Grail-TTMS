@@ -1,0 +1,46 @@
+Rajeev 		- 	Solution Architect   (          )
+Abhishek 	-	Enterprise Architect (Travelling)
+Shyamveer 	-	Solution Architect   (		) -- Cloud Solution Architect -- Java/ --- TCS 
+Saurabh		-	Security
+Bhaskar		-	Infrastructure
+Data Centre 	-	Establish (Private Cloud) 
+		-	Information Architect
+
+Providing Technical Solution ... 
+
+Procurement - 	
+
+Direction is missing! Trust is missing.
+
+Analyst, 20-25 Engagement ... 
+
+Bigshot - Mahesh Chandra (NIC) , Abhijeet (Consulting Guy ... Vendor ... Ministry )
+
+UN -- Ravi (Advisor) 
+
+
+Offices in Other Countries ... Malavi office. 
+
+Maneesh -- Director ... Admin ... 
+
+
+Solution Approach ... 
+
+SSMTL -  Vehicle Registration , Accident , 
+
+Operator - Shyamveer 
+
+AM/PM - Rajeev
+
+DL/VR - Rajeev 
+
+
+Vendor Empanelment -- RFP 
+
+S - Security, Helpdesk, Language , Party , Location -- Common Services
+AM/PM - Accident Management - 
+DL/ VR - Driving License Registration , Vehicle Registration 
+Operator Registration - Fleet Registration 
+
+
+Integration -- Rajeev -- API/Microservice 
